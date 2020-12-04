@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    backgroun
+}
+
+header {
+    background-color: #005;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+#notifications {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+#table {
+    text-align: center;
+    border: 2px solid #000;
+    margin-bottom: 1rem;
+}
+
+#news{
+    height: 30vh;
+}
+
+#news h2 {
+    background-color: #005;
+    color: #fff;
+    text-align: center
+}
+
+#news p {
+    margin: 0.5rem 0;
+}
+
+#awards {
+    margin-bottom: 1rem;
+}
+
+#awards h2 {
+    background-color: #005;
+    color: #fff;
+    text-align: center
+}
+
+#joke h2 {
+    background-color: #005;
+    color: #fff;
+    text-align: center
+}
